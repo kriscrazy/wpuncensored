@@ -1,0 +1,49 @@
+/*
+	Theme Name: Unitheme Child
+	Theme URI: http://www.unitheme.ninzio.com
+	Description: Unitheme Multipurpose Responsive Retina-Ready  Wordpress Premium Child Theme
+	Author: Ninzio Team
+	Author URI: http://www.ninzio.com
+	Template:unitheme
+	Version: 2.1
+*/
+@import url("../unitheme/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+@font-face{ 
+	font-family: 'BebasNeue';
+	src: url('fonts/BebasNeueRegular.woff') format('woff'),
+	url('fonts/BebasNeueRegular.ttf') format('truetype');
+}
+body, button, input, pre, code, kbd, samp, dt,
+.widget_icl_lang_sel_widget a,
+.widget_tag_cloud .tagcloud a,
+.widget_product_tag_cloud .tagcloud a,
+.social-links a span,
+.woocommerce .quantity input[type="button"].minus,
+.woocommerce .quantity input[type="button"].plus,
+.widget_nav_menu ul li a,
+.nz-counter .count-title {
+	font-family:'BebasNeue' !important;
+}
+h1,h2,h3,h4,h5,h6,
+.nz-pricing-table .column .title
+.nz-circle .title {
+	font-family:'BebasNeue' !important;
+}
+button,
+input[type="reset"],
+input[type="submit"],
+input[type="button"],
+.button {
+	font-family:'BebasNeue' !important;
+}
+
+.fontpage
+{
+	
+
+}
+
+
